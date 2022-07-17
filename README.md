@@ -5,4 +5,4 @@ Welcome to the graph learning workshop community, where we invite researchers re
 
 | Date         |   Topic  | Speaker  |Video           |
 | --------     | -------- | -------- | --------         |
-| July 2, 2022 | Text     | Text     | Bilibli, Youtube |
+| July 2, 2022 | [Optimization Perspectives on Graph Neural Networks](https://mp.weixin.qq.com/s/-xKiXaCp_DwuF9QcrCNXuQ)     | [Zengfeng Huang](https://zengfenghuang.github.io/)     | [Bilibli](https://www.bilibili.com/video/BV1xY4y1E7uN?share_source=copy_web&vd_source=b018fe2cabf13e7002416b2522c321e), [Youtube](https://youtu.be/Q7dYNqdPz-w) |
