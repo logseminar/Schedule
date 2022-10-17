@@ -32,7 +32,7 @@ Welcome to the graph learning workshop community, where we invite researchers re
 
 ## Contributors
 
-Li Sun(sunl8447@163.com)
+Li Sun(sunl8447@163.com)\
 Zhou Min (zhoumin1900@163.com)
 
 
