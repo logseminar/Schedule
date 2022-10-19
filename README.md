@@ -5,6 +5,7 @@ Welcome to the graph learning workshop community, where we invite researchers re
 
 | Date         |   Topic  | Speaker  |Video           |
 | --------     | -------- | -------- | --------         |
+|  October 15, 2022 | [Rethinking and Scaling Up Graph Contrastive Learning](https://mp.weixin.qq.com/s/CpYCcuBqsr_EpAYL_dFh_A)  | [Pan Shirui (Griffith University)](https://shiruipan.github.io/)|[Bilibili](https://www.bilibili.com/video/BV16G4y1n756/?spm_id_from=333.999.0.0), [Youtube](https://www.youtube.com/watch?v=AhFkyxVJxP4)  |
 |  September 25, 2022 | [Graph Neural Networks with Geometric and Topologic Structures](https://mp.weixin.qq.com/s/kuYoUX9amCEaAwOrbJtvMg)  | [Tengfei Ma (IBM Watson Research Institute)](https://sites.google.com/site/matf0123)|[Bilibili](https://www.bilibili.com/video/BV1Ee4y1b7Hx/?spm_id_from=333.999.0.0), [Youtube](https://www.youtube.com/watch?v=AhFkyxVJxP4)  |
 September 25, 2022 | [Explainability of Graph Neural Networks](https://mp.weixin.qq.com/s/UdSzBrdMdpcNtQCt3j-X1g)  | [Xiang Wang (University of Science and Technology of China)](http://staff.ustc.edu.cn/~xiangwang)|[Bilibili](https://www.bilibili.com/video/BV1Me4y1r7z8/?spm_id_from=333.999.0.0), [Youtube](https://www.youtube.com/watch?v=AhFkyxVJxP4)  |
 |  September 4, 2022 | [Robust Machine Learning on Graph Data ](https://mp.weixin.qq.com/s/sH7Ifp_zAFL6QmIfzbvPiw)  | [Jiarong Xu (Fudan University)](https://galina0217.github.io/)|[Bilibili](https://www.bilibili.com/video/BV1VP4y1Z7F8?spm_id_from=333.999.0.0), [Youtube](https://www.youtube.com/watch?v=AhFkyxVJxP4)  |
