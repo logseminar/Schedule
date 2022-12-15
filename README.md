@@ -49,7 +49,7 @@ Li Sun(sunl8447@163.com)
 
 Zhou Min (zhoumin1900@163.com)
 
-Menglin Yang (mlyang@cse.cuhk.edu.hk)
+Menglin Yang (mlyang@link.cuhk.edu.hk)
 
 
 
